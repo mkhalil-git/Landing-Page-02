@@ -36,8 +36,6 @@ This is a basic Landing page that uses Javascript to create a NavBar dynamically
 
 ### To View The Project
 
-The project is published on GitHub Pages. To view, click on this link: *[link to project](https://khalil-git.github.io/Landing-Page-02/)*.
-
-
+The project is published on GitHub Pages. To view, click on this link: *[link to project](https://mkhalil-git.github.io/Landing-Page-02/)*.
 
 
